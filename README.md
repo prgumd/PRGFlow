@@ -6,6 +6,8 @@
 We plan to release the Tensorflow Training and Testing for the architecture presented in the paper along with the pre-trained model. Also, we will release the hardware setup instructions for NanoPi, Google Coral USB Accelerator and Google Coral Dev Board.
 (Follow this repository for more updates)
 
+[![PRGFlow: Benchmarking SWAP-Aware Unified Deep Visual Inertial Odometry](http://prg.cs.umd.edu/research/PRGFlow_files/DiffQuadrotors.png)]
+
 ### Abstract
 
 Odometry on aerial robots has to be of low latency and high robustness whilst also respecting the Size, Weight, Area and Power (SWAP) constraints as demanded by the size of the robot. A combination of visual sensors coupled with Inertial Measurement Units (IMUs) has proven to be the best combination to obtain robust and low latency odometry on resource-constrained aerial robots. Recently, deep learning approaches for Visual Inertial fusion have gained momentum due to their high accuracy and robustness. However, the remarkable advantages of these techniques are their inherent scalability (adaptation to different sized aerial robots) and unification (same method works on different sized aerial robots) by utilizing compression methods and hardware acceleration, which have been lacking from previous approaches. 
