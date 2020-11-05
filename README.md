@@ -6,7 +6,7 @@
 We plan to release the Tensorflow Training and Testing for the architectures presented in the paper along with the pre-trained models. Also, we will release the hardware setup instructions for NanoPi, Google Coral USB Accelerator and Google Coral Dev Board.
 (Follow this repository for more updates.)
 
-[PRGFlow: Benchmarking SWAP-Aware Unified Deep Visual Inertial Odometry](http://prg.cs.umd.edu/research/PRGFlow_files/DiffQuadrotors.png)]
+[PRGFlow: Benchmarking SWAP-Aware Unified Deep Visual Inertial Odometry](http://prg.cs.umd.edu/research/PRGFlow_files/DiffQuadrotors.png)
 
 ### Abstract
 
