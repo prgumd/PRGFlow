@@ -3,10 +3,10 @@
 **PRGFlow** by <a href="http://prg.cs.umd.edu"><i>Perception & Robotics Group</i></a> at the Department of Computer Science, <a href="https://umd.edu/">University of Maryland- College Park</a>.
 
 ### What will be released? 
-We plan to release the Tensorflow Training and Testing for the architecture presented in the paper along with the pre-trained model. Also, we will release the hardware setup instructions for NanoPi, Google Coral USB Accelerator and Google Coral Dev Board.
-(Follow this repository for more updates)
+We plan to release the Tensorflow Training and Testing for the architectures presented in the paper along with the pre-trained models. Also, we will release the hardware setup instructions for NanoPi, Google Coral USB Accelerator and Google Coral Dev Board.
+(Follow this repository for more updates.)
 
-[![PRGFlow: Benchmarking SWAP-Aware Unified Deep Visual Inertial Odometry](http://prg.cs.umd.edu/research/PRGFlow_files/DiffQuadrotors.png)]
+[PRGFlow: Benchmarking SWAP-Aware Unified Deep Visual Inertial Odometry](http://prg.cs.umd.edu/research/PRGFlow_files/DiffQuadrotors.png)]
 
 ### Abstract
 
